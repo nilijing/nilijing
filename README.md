@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-\[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=niljing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.glitch.me/badge?page_id=nilijing.readme)
+
 
 <!--
 **nilijing/nilijing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
