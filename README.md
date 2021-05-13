@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nilijing](https://github.com/nilijing)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [Medium](https://jennyttt.medium.com/)
 
-- 💬 Ask me about **Python, R, ML**
+- 💬 Ask me about **Python, R, SQL, ML**
 
 - 📫 How to reach me **tanyjing@gmail.com**
 
