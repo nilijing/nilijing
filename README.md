@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [Medium](https://jennyttt.medium.com/)
 
-- 💬 Ask me about **Python, R, SQL, ML**
+- 💬 Ask me about **Python, R, SQL, ML, Tableau, PowerBI, Azure Data Factory, SSRS, SSIS**
 
 - 📫 How to reach me **tanyjing@gmail.com**
 
